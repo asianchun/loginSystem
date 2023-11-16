@@ -5,7 +5,7 @@ Welcome to the Simple Login and Signup App! This project is a Java implementatio
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [Usage](#usage)
@@ -13,9 +13,10 @@ Welcome to the Simple Login and Signup App! This project is a Java implementatio
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
+## Screenshots
+![Screenshot 1](/screenshot1.png?raw=true "Optional Title")
 
-Check out the live demo of the Login System [here](#).
+![Screenshot 2](/screenshot2.png?raw=true "Optional Title")
 
 ## Features
 
